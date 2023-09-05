@@ -11,9 +11,11 @@
     display: flex;
     flex-wrap: wrap;
     float: left;
-    border: 1px solid black;
+    border: 1px solid blue;
+    border-radius: 8px;
     display: flex;
     justify-content: center;
+    align-items: center;
     width: 25%;
     height: 30%;
     text-align: center;
